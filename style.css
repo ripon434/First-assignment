@@ -1,0 +1,57 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.orenge {
+    color: red;
+}
+.flex-container{
+display: flex;
+    white-space: 100%;
+}
+.box img{
+    width: 80%;
+}
+
+.box {
+    box-shadow: 10px 5px 10px;
+margin:4%;
+    padding: 2%;
+    float: left;
+    border-radius: 5%;
+    
+        
+    
+}
+.top{
+    display: flex;
+    
+}
+#on{
+    background-image: url(images/shap.png);
+}
+
+.half-width {
+    width: 50%;
+    padding: 10%;
+}
+
+.half-width img {
+    width: 100%;
+}
+.anchor-button{
+    background: linear-gradient(45deg, lightsalmon, red);
+   border-radius: 10px;
+color: white;
+    font-weight: 700;
+}
+.tp {
+    
+}
+.tw{
+    text-align: center;
+    padding: 100px;
+}
+span{
+    color: red;
+}
