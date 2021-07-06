@@ -5,29 +5,29 @@ body {
 .orenge {
     color: red;
 }
-.flex-container{
-display: flex;
+
+.flex-container {
+    display: flex;
     white-space: 100%;
 }
-.box img{
+
+.box img {
     width: 80%;
 }
 
 .box {
     box-shadow: 10px 5px 10px;
-margin:4%;
+    margin: 4%;
     padding: 2%;
     float: left;
     border-radius: 5%;
-    
-        
-    
 }
-.top{
+
+.top {
     display: flex;
-    
 }
-#on{
+
+#on {
     background-image: url(images/shap.png);
 }
 
@@ -39,19 +39,37 @@ margin:4%;
 .half-width img {
     width: 100%;
 }
-.anchor-button{
+
+.anchor-button {
     background: linear-gradient(45deg, lightsalmon, red);
-   border-radius: 10px;
-color: white;
+    border-radius: 10px;
+    color: white;
     font-weight: 700;
 }
-.tp {
-    
-}
-.tw{
+
+.to {
     text-align: center;
-    padding: 100px;
 }
-span{
+
+.tw {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+}
+
+.re {
     color: red;
+}
+
+.ty {
+    color: aliceblue;
+}
+
+.tooo {
+    box-shadow: 10px 5px 10px;
+    margin: 4%;
+    padding: 2%;
+    float: right;
+    border-radius: 5%;
+    padding: 5% border-radius: 5%;
 }
